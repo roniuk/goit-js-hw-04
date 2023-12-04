@@ -20,5 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-#test.js
-#metody-objecta.js
+test.js
+metody-objecta.js
